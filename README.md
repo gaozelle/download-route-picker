@@ -7,7 +7,7 @@
 
 ## 下载
 
-请前往 [最新版本页面](https://github.com/gaozelle/download-route-picker/releases/latest) 下载 `下载线路选择-0.5.3-macOS.zip`。
+请前往 [0.5.3 Beta 发布页面](https://github.com/gaozelle/download-route-picker/releases/tag/v0.5.3) 下载 `下载线路选择-0.5.3-macOS.zip`。
 
 这个仓库目前只用于 Beta 版本分发和问题反馈，**暂未公开源代码**。
 
@@ -37,7 +37,7 @@ VPN 节点的延迟不等于真实文件下载速度。下载线路选择会针�
 
 ## 安装与第一次使用
 
-1. 从 [Releases](https://github.com/gaozelle/download-route-picker/releases/latest) 下载 ZIP 并解压。
+1. 从 [0.5.3 Beta 发布页面](https://github.com/gaozelle/download-route-picker/releases/tag/v0.5.3) 下载 ZIP 并解压。
 2. 把“下载线路选择.app”拖入“应用程序”文件夹。
 3. 首次打开如果 macOS 提示无法验证开发者，请在访达中右键 App，选择“打开”，再确认一次。
 4. 保持 Clash Verge 正在运行。
@@ -72,4 +72,3 @@ App 在本机运行，不包含账号、遥测、广告或分析 SDK，不会把
 ## 项目关系
 
 本项目与 Clash Verge Rev、Mihomo 及任何代理服务商均无隶属或官方合作关系。
-
