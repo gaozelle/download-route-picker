@@ -7,7 +7,7 @@
 
 ## 下载
 
-请前往 [0.5.3 Beta 发布页面](https://github.com/gaozelle/download-route-picker/releases/tag/v0.5.3) 下载 `下载线路选择-0.5.3-macOS.zip`。
+请前往 [0.5.3 Beta 发布页面](https://github.com/gaozelle/download-route-picker/releases/tag/v0.5.3) 下载 `DownloadRoutePicker-0.5.3-macOS.zip`。
 
 这个仓库目前只用于 Beta 版本分发和问题反馈，**暂未公开源代码**。
 
