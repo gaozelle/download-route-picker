@@ -1,0 +1,51 @@
+name: Beta 使用反馈
+description: 分享是否解决了手动切换下载节点的问题
+title: "[反馈] "
+labels: ["feedback", "beta"]
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: 使用环境
+      placeholder: "例如：Intel Mac、macOS 15、Clash Verge 2.5.2、TUN 已开启"
+    validations:
+      required: true
+  - type: dropdown
+    id: install
+    attributes:
+      label: 是否顺利完成首次安装？
+      options: ["是", "否"]
+    validations:
+      required: true
+  - type: dropdown
+    id: download
+    attributes:
+      label: 是否成功完成下载？
+      options: ["是", "否"]
+    validations:
+      required: true
+  - type: dropdown
+    id: network
+    attributes:
+      label: 其他联网 App 是否受到影响？
+      options: ["没有发现影响", "发现影响", "不确定"]
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: 它是否替代了你原来手动测速或切换节点的过程？
+    validations:
+      required: true
+  - type: dropdown
+    id: willingness
+    attributes:
+      label: 如果后续版本稳定，你是否愿意支付 4.9 元继续使用？
+      options: ["愿意", "可能愿意", "不愿意", "暂时无法判断"]
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 最希望改进的一点
+
